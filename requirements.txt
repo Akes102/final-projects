@@ -1,0 +1,9 @@
+openai
+python-dotenv
+gradio
+pandas
+numpy
+scikit-learn
+chromadb
+sentence-transformers
+pypdf
